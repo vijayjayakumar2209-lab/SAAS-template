@@ -70,6 +70,8 @@ p {
        border:none;
        font-size:25px;
        font-weight: bold;
+       width:200px;
+       background-color:transperent;
 }
 .sign {
     border:none;
@@ -186,4 +188,5 @@ p {
 }
 body {
     background: linear-gradient(45deg,rgb(223, 166, 175),violet,darkviolet);
+
 }
